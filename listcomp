@@ -1,0 +1,5 @@
+number1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+odd = [x for x in number1 if x % 2 == 1]
+print("set:", number1)
+print("Odd numbers in set:")
+print(odd)
